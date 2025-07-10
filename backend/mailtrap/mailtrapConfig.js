@@ -35,6 +35,3 @@ export const sender = {
 //     category: "Integration Test",
 //   })
 //   .then(console.log, console.error);
-
-  // # MAILTRAP_TOKEN=73c14ea57004e5d84fcdce5b90d56350
-  // MAILTRAP_TOKEN=033289770d5cf8725aa8fdf109eee463
